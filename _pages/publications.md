@@ -4,6 +4,7 @@ permalink: /publications/
 title: publications
 description: >
     Publications in reversed chronological order.
+    
     <i>* indicates equal contribution</i>
 nav: true
 nav_order: 2

@@ -18,7 +18,7 @@
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div style="color:#e8e8e8">{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>
         {% else %}
@@ -56,7 +56,7 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes = "1000px"
+            sizes = "800px"
             class="preview z-depth-1 rounded"
             zoomable=true
             alt=entry.preview
