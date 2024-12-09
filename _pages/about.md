@@ -20,4 +20,4 @@ Hi, I am Lechen! I am a master student at [University of Michigan](https://umich
 
 Currently I am a Research Assistant in [Blablablab](https://blablablab.si.umich.edu/), advised by Professor [David Jurgens](https://jurgens.people.si.umich.edu/). I am also working with Professor [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as a member of [Launch Lab](https://launch.eecs.umich.edu/home). Previously, I earned my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-I am actively seeking PhD opportunities for Fall 2025! You can find my CV [here](pdf/cv_lechen.pdf).
+I am actively seeking PhD opportunities for Fall 2025! You can find my CV [here](assets/pdf/cv_lechen.pdf).

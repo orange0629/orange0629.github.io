@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /pdf/cv_lechen.pdf
+permalink: assets/pdf/cv_lechen.pdf
 title: cv
 nav: true
 nav_order: 5
