@@ -35,6 +35,12 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        <!-- Social -->
+        {% if page.social %}
+          <div class="social">
+            <div class="contact-icons" font-size="3rem">{% include social.liquid %}</div>
+          </div>
+        {% endif %}
       </div>
     {% endif %}
 
@@ -61,11 +67,14 @@ layout: default
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
+      <div>
+        <i>* indicates equal contribution</i>
+      </div>
       {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Social -->
-    {% if page.social %}
+    {% if page.social_under_profile %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 

@@ -9,11 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>leczhang [at] umich [dot] edu</p>
+  
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
+social_under_profile: true # includes social icons at the bottom of the profile picture
 ---
 
 Hi, I am Lechen! I am a master student at [University of Michigan](https://umich.edu/), with a broad interest in Natural Language Processing and Machine Learning. My research focuses on developing robust and trustworthy language models that better understand and think like humans.
