@@ -2,15 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications in reversed chronological order.
+description: >
+    Publications in reversed chronological order.
+    <i>* indicates equal contribution</i>
 nav: true
 nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-<div>
-    <i>* indicates equal contribution</i>
-</div>
 
 <!-- Bibsearch Feature -->
 

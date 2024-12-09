@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My [first paper](https://arxiv.org/abs/2311.09718) has been accepted as an oral at [NAACL 2024](https://2024.naacl.org/). Looking forward to seeing you in Mexico City!
+My [first paper](https://arxiv.org/abs/2311.09718) has been accepted as an oral at [NAACL 2024](https://2024.naacl.org/). See you in Mexico City!
