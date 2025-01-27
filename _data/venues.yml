@@ -2,5 +2,9 @@
   url: https://2024.naacl.org/
   color: "#00369f"
 
+"NAACL 2025":
+  url: https://2025.naacl.org/
+  color: "#87ceeb"
+
 "Preprint":
   color: "#009f36"

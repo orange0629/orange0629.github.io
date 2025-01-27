@@ -1,5 +1,8 @@
 "Oral":
   color: "#E55137"
 
+"Main Conference":
+  color: "#8B0000"
+
 "Under Review":
   color: "#924E7D"
