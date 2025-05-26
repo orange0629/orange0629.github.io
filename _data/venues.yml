@@ -8,3 +8,11 @@
 
 "Preprint":
   color: "#009f36"
+
+"ACL 2025":
+  url: https://2025.aclweb.org/
+  color: "#1B7F5C"
+
+"ACL 2025 Findings":
+  url: https://2025.aclweb.org/
+  color: "#57C293"
