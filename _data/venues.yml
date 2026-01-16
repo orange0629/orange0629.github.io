@@ -16,3 +16,15 @@
 "ACL 2025 Findings":
   url: https://2025.aclweb.org/
   color: "#57C293"
+
+"EMNLP 2025":
+  url: https://2025.emnlp.org/
+  color: "#7B2CBF"
+
+"MATH-AI @ NeurIPS 2025":
+  url: https://mathai2025.github.io/
+  color: "#B45309"
+
+"SCALR @ COLM 2025":
+  url: https://scalr-workshop.github.io/
+  color: "#0F766E"
