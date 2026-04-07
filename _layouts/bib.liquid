@@ -5,8 +5,8 @@
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
         {%- assign abbr_list = entry.abbr | split: ',' -%}
-        {%- for abbr_item in abbr_list -%}
-          {%- assign abbr_item = abbr_item | strip -%}
+        {%- for abbr_raw in abbr_list -%}
+          {%- assign abbr_item = abbr_raw | strip -%}
           {%- if site.data.venues[abbr_item] -%}
             {% assign venue_style = null %}
             {% if site.data.venues[abbr_item].color != blank %}
